@@ -55,12 +55,13 @@ function TaisteluMenee(attackingPlayer, attackingUnit, attackingUnitDamage, atta
 				print("Eetu> TaisteluMenee rajahdus")
 				NytPosahtaa(unit)
 			end
+		else
+			print("Eetu> TaisteluMenee unit ei ollu pelaajalla")
 		end
 	end
 
 	return true 
 end
 
--- git
 Events.RunCombatSim.Add(TaisteluMenee)
 Events.EndCombatSim.Add(TaisteluLoppu)
