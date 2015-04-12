@@ -47,7 +47,7 @@ function TaisteluMenee(attackingPlayer, attackingUnit, attackingUnitDamage, atta
 	local player = Players[attackingPlayer]
 	if (player ~= nil) then
 		print("Eetu> TaisteluMenee player loyty")
-		local unit = player:GetUnitByID(attackingUnit)--Units[attackingUnit]
+		local unit = player:GetUnitByID(attackingUnit)
 		if (unit ~= nil) then
 			print("Eetu> TaisteluMenee unit loyty Type="..unit:GetUnitType())
 			print("Eetu> Verrataan Tyyppin="..GameInfoTypes["UNIT_ANTIMATTER_ANNIHILATION_BOMB"])
@@ -61,5 +61,6 @@ function TaisteluMenee(attackingPlayer, attackingUnit, attackingUnitDamage, atta
 	return true 
 end
 
+-- git
 Events.RunCombatSim.Add(TaisteluMenee)
 Events.EndCombatSim.Add(TaisteluLoppu)
