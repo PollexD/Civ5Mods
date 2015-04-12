@@ -52,6 +52,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>EetuLiideri.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Iconit.xml</FileName>
+      </Action>
     </ModActions>
     <ReloadStrategicViewSystem>false</ReloadStrategicViewSystem>
     <ModContent>
@@ -84,6 +89,10 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="GameText.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Iconit.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
