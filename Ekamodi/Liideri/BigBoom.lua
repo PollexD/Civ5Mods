@@ -56,7 +56,7 @@ function TaisteluMenee(attackingPlayer, attackingUnit, attackingUnitDamage, atta
 				NytPosahtaa(unit)
 			end
 		else
-			print("Eetu> TaisteluMenee unit ei ollu pelaajalla")
+			print("Eetu> TaisteluMenee unit ei ollu pelaajalla - joo")
 		end
 	end
 
