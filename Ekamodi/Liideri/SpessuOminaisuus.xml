@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+ 
+	<Traits>
+		<Row>
+			<Type>TRAIT_AHKERAT_MONNILAISET</Type>
+			<Description>TXT_KEY_TRAIT_AHKERAT_MONNILAISET</Description>
+			<ShortDescription>TXT_KEY_TRAIT_AHKERAT_MONNILAISET_SHORT</ShortDescription>
+			<FreeUnit>UNITCLASS_WORKER</FreeUnit>
+			<LevelExperienceModifier>-50</LevelExperienceModifier>
+		</Row>
+	</Traits>
+</GameData>
