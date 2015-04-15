@@ -26,9 +26,10 @@
 			<XPValueDefense>5</XPValueDefense>
 			<Conscription>1</Conscription>
 			<UnitArtInfo>ART_DEF_UNIT_U_AZTEC_JAGUAR</UnitArtInfo>
-			<UnitFlagIconOffset>54</UnitFlagIconOffset>
-			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
-			<PortraitIndex>11</PortraitIndex>
+			<UnitFlagAtlas>CIV_COLOR_ATLAS_LEGENDS</UnitFlagAtlas>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
 			<PrereqTech>TECH_PLASTIC</PrereqTech>
 		</Row>
 	</Units>
