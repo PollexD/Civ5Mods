@@ -2,13 +2,11 @@
   (let* (
 	(image (car (file-dds-load RUN-NONINTERACTIVE filename-orig filename-orig 1 1)))
 	 (drawable (car (gimp-image-get-active-layer image)))
-	 ;;(w (car (gimp-image-width image)))
-	 ;;(h (car (gimp-image-height image)))
 	)
 	(gimp-image-scale image w h)
 	(file-dds-save RUN-NONINTERACTIVE image drawable filename-destination filename-destination
 		0 ;; compression format none
-		0 ;; no-minimaps
+		0 ;; minimaps off
 		0 ;; savetype
 		0 ;; format
 		-1 ;; transparent index disabled
