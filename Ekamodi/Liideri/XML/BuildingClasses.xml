@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ANTIMATTER_KITCHEN</Type>
+			<DefaultBuilding>BUILDING_ANTIMATTER_KITCHEN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANTIMATTER_KITCHEN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ANTIMATERIA_FUUSIO_REAKTORI</Type>
+			<DefaultBuilding>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</Description>
+		</Row>
+	</BuildingClasses>
+ </GameData>

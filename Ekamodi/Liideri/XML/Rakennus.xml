@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ANTIMATTER_KITCHEN</Type>
+			<BuildingClass>BUILDINGCLASS_ANTIMATTER_KITCHEN</BuildingClass>
+			<Cost>500</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_ANTIMATTER_KITCHEN_STRATEGY</Help>
+			<Description>TXT_KEY_BUILDING_ANTIMATTER_KITCHEN</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ANTIMATTER_KITCHEN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ANTIMATTER_KITCHEN_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_GARDEN</ArtDefineTag>
+			<MaxStartEra>ERA_POSTMODERN</MaxStartEra>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>6</PortraitIndex>
+			<PrereqTech>TECH_ANTIMATTER</PrereqTech>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_ANTIMATTER_KITCHEN</BuildingType>
+			<ResourceType>RESOURCE_ANTIMATTER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+</GameData>

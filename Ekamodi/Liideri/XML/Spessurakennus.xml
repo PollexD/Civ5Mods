@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</Type>
+			<BuildingClass>BUILDINGCLASS_ANTIMATERIA_FUUSIO_REAKTORI</BuildingClass>
+			<Cost>500</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_HELP</Help>
+			<Description>TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</Description>
+			<Civilopedia>TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_NUCLEAR_PLANT</ArtDefineTag>
+			<MaxStartEra>ERA_POSTMODERN</MaxStartEra>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<PrereqTech>TECH_ANTIMATTER</PrereqTech>
+			<MutuallyExclusiveGroup>1</MutuallyExclusiveGroup>
+			<ConquestProb>66</ConquestProb>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>3</SpecialistCount>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</BuildingType>
+			<ResourceType>RESOURCE_ANTIMATTER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ANTIMATERIA_FUUSIO_REAKTORI</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Building_YieldModifiers>
+</GameData>

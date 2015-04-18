@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Technologies>
+		<Row>
+			<Type>TECH_ANTIMATTER</Type>
+			<Cost>5500</Cost>
+			<Description>TXT_KEY_TECH_ANTIMATTER_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ANTIMATTER_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_GRID_ANTIMATTER_HELP</Help>
+			<Era>ERA_POSTMODERN</Era>
+			<Trade>true</Trade>
+			<GridX>14</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_ANTIMATTER_QUOTE</Quote>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<GoodyTech>true</GoodyTech>
+		</Row>
+	</Technologies>
+	<Technology_Flavors>
+		<Row>
+			<TechType>TECH_ANTIMATTER</TechType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Technology_Flavors>
+	<Technology_PrereqTechs>
+		<Row>
+			<TechType>TECH_ANTIMATTER</TechType>
+			<PrereqTech>TECH_ATOMIC_THEORY</PrereqTech>
+		</Row>
+	</Technology_PrereqTechs>
+</GameData>

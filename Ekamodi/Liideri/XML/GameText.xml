@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_EETU">
+			<Text>Eetu The SikaGreit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONNI_DESC">
+			<Text>Monnin Maailmanvalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONNI_SHORT_DESC">
+			<Text>Monnin Maailmanvalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONNI_ADJECTIVE">
+			<Text>Monnilainen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONNI_PEDIA">
+			<Text>Monnin Maailmanvalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI">
+			<Text>Monnin Maailmanvalta Hallitsi Maailmaa Vuonna 2015</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_MONNI_TEXT">
+			<Text>Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.   
+				  Vuonna 2002 Monnin MaailmanValta Itsenäistyi. Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman. 
+				  13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EETULANDIA">
+			<Text>EETULANDIA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MURSUMAA">
+			<Text>MURSUMAA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RANTALA">
+			<Text>RANTALA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAATILA">
+			<Text>MAATILA</Text>
+		</Row>
+
+		<!-- Jesus INFANTRY texts -->
+		<Row Tag="TXT_KEY_UNIT_JESUS_INFANTRY">
+			<Text>Jesus Infantry</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HELP_JESUS_INFANTRY">
+			<Text>Jesus Infantry On Jumalallinen Sotilas Joka On Vahvempi, Nopeampi, Kestävämpi Kuin Tavallinen Infantry.</Text>
+		</Row>
+		<!--ANTIAMTTER KITCHEN Texts-->
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATTER_KITCHEN">
+			<Text>Antimatter Kitchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATTER_KITCHEN_STRATEGY">
+			<Text>Antimatter Kitchen Tuottaa 2 Antimatteria</Text>
+			
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANTIMATTER_KITCHEN_TEXT">
+			<Text>Antimatter Kitchen Tuottaa 2 Antimatteria</Text>
+		</Row>
+
+	
+		<!-- AntimateriaFuusioReaktori Texts-->
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_STRATEGY">
+			<Text>AntimateriaFuusioReaktori Tuottaa Energiaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI">
+			<Text>AntimateriaFuusioReaktori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_TEXT">
+			<Text>AntimateriaFuusioReaktori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_HELP">
+			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden Antimatterin.</Text>
+		</Row>
+		<!--Teknologia-->
+		<Row Tag="TXT_KEY_TECH_ANTIMATTER_DESC">
+			<Text>Antimatter Matters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ANTIMATTER_TITLE">
+			<Text>Antimatter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GRID_ANTIMATTER_HELP">
+			<Text>Anti+Matter=Antimatter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ANTIMATTER_QUOTE">
+			<Text>AntimateriaFuusioReaktori</Text>
+		</Row>
+	
+		<!--Resurssi-->
+
+		<Row Tag="TXT_KEY_RESOURCE_ANTIMATTER">
+			<Text>Antimatter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ANTIMATTER_TEXT">
+			<Text>Antimatter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ANTIMATTER_HELP">
+			<Text>Antimatter On Erikoinen Resurssi Jota Ei Löydy Mistään. Antimateriaa Tuotetaan Antimatter Kitchenillä.</Text>
+		</Row>
+		
+		<!-- CIVILOPEDIA -->
+
+		<Row Tag="TXT_KEY_CIV5_MONNI_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_FACTOID_TEXT">
+			<Text>Monni Oli Maailmanvalloista Mahtavin Ja Mutta Lyhytikäisin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_3">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_4">
+			<Text>Swedish Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_5">
+			<Text>Autonomous Duchy of MONNI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_6">
+			<Text>Struggles of a Young Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_7">
+			<Text>The Winter War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_8">
+			<Text>The War Continues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_9">
+			<Text>Postwar Period and Recovery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_10">
+			<Text>EETU EETU's Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_11">
+			<Text>Recent History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONNI_TEXT_1">
+			<Text>
+				Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.
+				Vuonna 2002 Monnin MaailmanValta Itsenäistyi. Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman.
+				13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
+			
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_TEXT_1">
+			<Text>Eetu The SikaGreit Oli Monnin Maailmanvallan Maineikas Ja SikaGreit Liideri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_LIVED">
+			<Text>2002-2015 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_TITLES_1">
+			<Text>Monnin Liideri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_NAME">
+			<Text>EETU ANTERO LOIMUNEVA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_SUBTITLE">
+			<Text>Monnin Maailmanvallan Liideri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER__EETU">
+			<Text>EETU</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_AHKERAT_MONNILAISET_SHORT">
+			<Text>Ahkerat Monnilaiset</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_AHKERAT_MONNILAISET">
+			<Text>Alussa Ilmanen Workeri. -50% Xp Seuraavaan Promotioniin.</Text>
+		</Row>
+		<!-- Spy names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_0">
+			<Text>James Puntti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_1">
+			<Text>Inkkari Joonas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_2">
+			<Text>Pertti "Pera" Kartio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_3">
+			<Text>Virtasen Juhani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_4">
+			<Text>Urpo Uusmaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_5">
+			<Text>Herra Hermanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_6">
+			<Text>Tarzan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_7">
+			<Text>SikaPossu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_8">
+			<Text>MarttaKerho</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONNI_9">
+			<Text>You</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_1">
+			<Text>Ok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_2">
+			<Text>Jepulis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_3">
+			<Text>Mahtavaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_4">
+			<Text>Suurenmoista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_5">
+			<Text>Hmm... Ok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_6">
+			<Text>Kiva Juttu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_7">
+			<Text>Erinomaista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_ATTACKED_1">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_ATTACKED_2">
+			<Text>Juntti! Nyt Tapahtuu Kauheita!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_ATTACKED_3">
+			<Text>Nyt Te Kuolette!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_ATTACKED_4">
+			<Text>Monnilaisten Jumala Tulee Ja Talloo Sun Varpailles!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DECLAREWAR_1">
+			<Text>Nyt Tulee Kipsendaagelii!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DECLAREWAR_2">
+			<Text>Kohta Ihra Tummuu!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DECLAREWAR_3">
+			<Text>KARJALANPIIRAKKAA!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEFEATED_1">
+			<Text>Oho... Pikku Moka...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEFEATED_2">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEFEATED_3">
+			<Text>JuupaJuu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEMANDTRIBUTE_ANGRY">
+			<Text>Fyrkat Tiskiin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEMANDTRIBUTE_HAPPY">
+			<Text>Annappa Fyrkkaa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Fyrkkaa Kiitos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_1">
+			<Text>Ei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_2">
+			<Text>Ei...Ei Ja EI!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_3">
+			<Text>Ei Muuten Varmana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_4">
+			<Text>Ebinisti Ei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_5">
+			<Text>Nope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_6">
+			<Text>Et Oo Tosissas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_DISAGREE_SHORT_7">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_FIRSTGREETING_1">
+			<Text>No Moro! Oon Eetu. Tuutko Kahville?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_FIRSTGREETING_2">
+			<Text>Terveiset Monnista Pummi!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_FIRSTGREETING_3">
+			<Text>Oliko Asiaa? Jos Ei Ni Suksi Suolle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_1">
+			<Text>No Morjensta Sit Vaa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_2">
+			<Text>Moro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_3">
+			<Text>Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_4">
+			<Text>Tapaamisiin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_5">
+			<Text>Suksi Suolle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_6">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_7">
+			<Text>Oliks Siin Kaikki?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GOODBYE_8">
+			<Text>I'm Done!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_1">
+			<Text>No Moro!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_2">
+			<Text>Morjensta Vaa!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_3">
+			<Text>Onnittelut.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_4">
+			<Text>Mahtava Ilma!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_5">
+			<Text>Mites Menee?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_6">
+			<Text>No?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_GREETING_7">
+			<Text>Hmmm... Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LETSHEARIT_1">
+			<Text>Juu?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LETSHEARIT_2">
+			<Text>Edistyst Kiitos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LETSHEARIT_3">
+			<Text>Kuulolla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LETSHEARIT_4">
+			<Text>Joo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LETSHEARIT_5">
+			<Text>Ja?</Text>
+		</Row>
+			<Row Tag="TXT_KEY_LEADER_EETU_LOSEWAR_1">
+			<Text>REVANSSI!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LOSEWAR_2">
+			<Text>Nautitaanpa Rauhan Juureksista.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_LOSEWAR_3">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_QUOTE_1">
+			<Text>BlaahBlaahBlaah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_QUOTE_2">
+			<Text>Varjelkoon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_QUOTE_3">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_ANGRY_1">
+			<Text>ON HUONO!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_ANGRY_2">
+			<Text>KAIKKI MULLE HETI NYT!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Ei Huono Vaan Tosihuono. Annan Kymmenen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Onks Tossa Kaikki?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Melkein.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_HAPPY_4">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Reilu Tarjous Kiitos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Paremmin Kiitos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Melkein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NO_ANGRY">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NO_HAPPY">
+			<Text>Kamalaa! Suksi Suolle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_NO_NEUTRAL">
+			<Text>Ei... Ei... Ei...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_YES_ANGRY">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_YES_HAPPY">
+			<Text>JEEE!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADE_YES_NEUTRAL">
+			<Text>OK!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADEREQUEST_ANGRY">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADEREQUEST_HAPPY">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRADEREQUEST_NEUTRAL">
+			<Text>Onko Jees?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_NO_ANGRY">
+			<Text>EIIIIII!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_NO_HAPPY">
+			<Text>Tarpeetonta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_NO_NEUTRAL">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_YES_ANGRY">
+			<Text>Ok...!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_YES_HAPPY">
+			<Text>Sinne Meni Fyrkat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_TRIBUTE_YES_NEUTRAL">
+			<Text>Hjaag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EETU_WARBLUFF_1">
+			<Text>Hjaag</Text>
+		</Row>
+			<Row Tag="TXT_KEY_LEADER_EETU_WINWAR_1">
+			<Text>Muhahahahahahahahahahahahahahhahaahahahahahahahahahahahahahaaaa!!!</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>
+
+

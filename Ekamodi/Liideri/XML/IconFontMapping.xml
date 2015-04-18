@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/8/2010 8:48:02 PM -->
+<GameData>
+	<!--Icons-->
+
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_DEFAULT</IconFontTexture>
+			<IconFontTextureFile>FontIcons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_URANIUM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_DEFAULT</IconFontTexture>
+			<IconMapping>15</IconMapping>
+		</Row>
+	</IconFontMapping>
+  
+</GameData>
