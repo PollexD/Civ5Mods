@@ -24,6 +24,11 @@
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/MonniCivi.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/EetuLiideri.xml</FileName>
       </Action>
       <Action>
@@ -45,11 +50,6 @@
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/BuildingClasses.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/MonniCivi.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -98,6 +98,10 @@
     <DeployMod>true</DeployMod>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Taide\MonniDOM.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="Taide\EetunIconit128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>

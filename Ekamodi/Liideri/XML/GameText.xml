@@ -72,7 +72,7 @@
 			<Text>AntimateriaFuusioReaktori</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_HELP">
-			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden Antimatterin.</Text>
+			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden Antimatterin Ja Tuottaa 15% [ICON_PRODUCTION] , 15% [ICON_SCIENCE] Ja +15 [ICON_PRODUCTION]</Text>
 		</Row>
 		<!--Teknologia-->
 		<Row Tag="TXT_KEY_TECH_ANTIMATTER_DESC">
