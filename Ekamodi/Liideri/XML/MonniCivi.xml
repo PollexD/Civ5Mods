@@ -9,7 +9,7 @@
 			<Adjective>TXT_KEY_CIV_MONNI_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_MONNI_PEDIA</Civilopedia>
 			<CivilopediaTag>TXT_KEY_CIV5_MONNI</CivilopediaTag>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_KELTANEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
 			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
@@ -130,7 +130,6 @@
 			<RegionType>REGION_PLAINS</RegionType>
 		</Row>
 	</Civilization_Start_Region_Priority>
-	
 	
 </GameData>
 

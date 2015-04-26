@@ -7,8 +7,8 @@
     <Guid>c71bfafc-10cc-444e-a615-fe9f281083d2</Guid>
     <ModVersion>1</ModVersion>
     <Stability>Experimental</Stability>
-    <Teaser>Monnin Sivilisaation Johtajana Eetu</Teaser>
-    <Description>Monnin Sivilisaation Johtajana Eetu.</Description>
+    <Teaser>[COLOR_POSITIVE_TEXT] By PolleXD [ENDCOLOR] Monnin Sivilisaation Johtajana Eetu.</Teaser>
+    <Description>Monnin Sivilisaation Johtajana Eetu Ja Vähän Muuta Sälää.</Description>
     <Authors>PolleXD</Authors>
     <SpecialThanks>Caldomir</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
@@ -39,11 +39,6 @@
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>XML/IconFontMapping.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
         <FileName>XML/Iconit.xml</FileName>
       </Action>
       <Action>
@@ -54,7 +49,17 @@
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/PelaajaColoriKeltanen.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Rakennus.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/IconFontMapping.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -126,6 +131,14 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="Taide\Antimatter-fonticons.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Taide\Antimatter-fonticons.ggxml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="XML\BuildingClasses.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -147,6 +160,10 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\MonniCivi.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\PelaajaColoriKeltanen.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

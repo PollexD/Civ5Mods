@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_KELTANEN</Type>
+			<PrimaryColor>COLOR_PLAYER_BLACK</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_YELLOW</SecondaryColor>
+			<TextColor>COLOR_PLAYER_YELLOW_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

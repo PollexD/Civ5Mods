@@ -22,7 +22,7 @@
 			<Player>67</Player>
 			<Unique>1</Unique>
 			<ResourceUsage>1</ResourceUsage>
-			<IconString>[ICON_RES_URANIUM]</IconString>
+			<IconString>[ICON_RES_ANTIMATTER]</IconString>
 			<PortraitIndex>5</PortraitIndex>
 			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 		</Row>

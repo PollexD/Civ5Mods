@@ -5,15 +5,15 @@
 
 	<IconFontTextures>
 		<Row>
-			<IconFontTexture>ICON_FONT_TEXTURE_DEFAULT</IconFontTexture>
-			<IconFontTextureFile>FontIcons</IconFontTextureFile>
+			<IconFontTexture>ICON_FONT_TEXTURE_ANTIMATTER</IconFontTexture>
+			<IconFontTextureFile>Antimatter-fonticons</IconFontTextureFile>
 		</Row>
 	</IconFontTextures>
 	<IconFontMapping>
 		<Row>
-			<IconName>ICON_RES_URANIUM</IconName>
-			<IconFontTexture>ICON_FONT_TEXTURE_DEFAULT</IconFontTexture>
-			<IconMapping>15</IconMapping>
+			<IconName>ICON_RES_ANTIMATTER</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_ANTIMATTER</IconFontTexture>
+			<IconMapping>1</IconMapping>
 		</Row>
 	</IconFontMapping>
   

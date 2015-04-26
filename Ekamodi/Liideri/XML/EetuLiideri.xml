@@ -3,7 +3,6 @@
 
 <GameData>
 	<Leaders>
-		
 		<Row>
 			<Type>LEADER_EETU</Type>
 			<Description>TXT_KEY_LEADER_EETU</Description>
@@ -18,13 +17,10 @@
 			<WarmongerHate>2</WarmongerHate>
 			<WorkAgainstWillingness>7</WorkAgainstWillingness>
 			<WorkWithWillingness>4</WorkWithWillingness>
-			<PortraitIndex>6</PortraitIndex>
-			<IconAtlas>LEADER_ATLAS</IconAtlas>
-		
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 		</Row>
-
 	</Leaders>
-
 	<Leader_MajorCivApproachBiases>
 		<Row>
 			<LeaderType>LEADER_EETU</LeaderType>

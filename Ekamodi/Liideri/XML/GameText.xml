@@ -72,7 +72,7 @@
 			<Text>AntimateriaFuusioReaktori</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_HELP">
-			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden Antimatterin Ja Tuottaa 15% [ICON_PRODUCTION] , 15% [ICON_SCIENCE] Ja +15 [ICON_PRODUCTION]</Text>
+			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden Antimatterin Ja Tuottaa 15% [ICON_PRODUCTION] , 15% [ICON_RESEARCH] Ja +15 [ICON_PRODUCTION]</Text>
 		</Row>
 		<!--Teknologia-->
 		<Row Tag="TXT_KEY_TECH_ANTIMATTER_DESC">
@@ -144,8 +144,8 @@
 		<Row Tag="TXT_KEY_CIV5_MONNI_TEXT_1">
 			<Text>
 				Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.
-				Vuonna 2002 Monnin MaailmanValta Itsenäistyi. Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman.
-				13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
+			Vuonna 2002 Monnin MaailmanValta Itsenäistyi.Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman.
+			13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
 			
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_HEADING_1">
