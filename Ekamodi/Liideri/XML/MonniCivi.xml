@@ -9,6 +9,8 @@
 			<Adjective>TXT_KEY_CIV_MONNI_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_MONNI_PEDIA</Civilopedia>
 			<CivilopediaTag>TXT_KEY_CIV5_MONNI</CivilopediaTag>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
 			<DefaultPlayerColor>PLAYERCOLOR_KELTANEN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>

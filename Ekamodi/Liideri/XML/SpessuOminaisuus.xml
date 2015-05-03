@@ -3,11 +3,10 @@
 <GameData>
 	<Traits>
 		<Row>
-			<Type>TRAIT_AHKERAT_MONNILAISET</Type>
-			<Description>TXT_KEY_TRAIT_AHKERAT_MONNILAISET</Description>
-			<ShortDescription>TXT_KEY_TRAIT_AHKERAT_MONNILAISET_SHORT</ShortDescription>
-			<FreeUnit>UNITCLASS_WORKER</FreeUnit>
-			<LevelExperienceModifier>-50</LevelExperienceModifier>
+			<Type>TRAIT_SCIENCE</Type>
+			<Description>TXT_KEY_TRAIT_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SCIENCE_SHORT</ShortDescription>
+			<FreeUnit>UNITCLASS_SCIENTIST</FreeUnit>
 		</Row>
 	</Traits>
  </GameData>

@@ -5,8 +5,8 @@
     <ProjectGuid>{fde2d17c-ce19-4d99-af03-7b6fe3b00bd5}</ProjectGuid>
     <Name>Monnin Sivilisaatio - Johtaja Eetu</Name>
     <Guid>c71bfafc-10cc-444e-a615-fe9f281083d2</Guid>
-    <ModVersion>1</ModVersion>
-    <Stability>Experimental</Stability>
+    <ModVersion>2</ModVersion>
+    <Stability>Alpha</Stability>
     <Teaser>[COLOR_POSITIVE_TEXT] By PolleXD [ENDCOLOR] Monnin Sivilisaation Johtajana Eetu.</Teaser>
     <Description>Monnin Sivilisaation Johtajana Eetu Ja Vähän Muuta Sälää.</Description>
     <Authors>PolleXD</Authors>
@@ -21,6 +21,11 @@
     <RootNamespace>Liideri</RootNamespace>
     <ModReferences />
     <ModActions>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/MonniScene.xml</FileName>
+      </Action>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
@@ -90,6 +95,7 @@
     <ReloadStrategicViewSystem>false</ReloadStrategicViewSystem>
     <ModContent>
     </ModContent>
+    <ModProperties />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -139,6 +145,10 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="Taide\MonniScene.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="XML\BuildingClasses.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -174,6 +184,10 @@
     <Content Include="XML\Resurssi.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\MonniScene.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\SpessuOminaisuus.xml">
       <SubType>Lua</SubType>

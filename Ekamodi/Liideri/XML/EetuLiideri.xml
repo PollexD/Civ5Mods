@@ -8,7 +8,7 @@
 			<Description>TXT_KEY_LEADER_EETU</Description>
 			<Civilopedia>TXT_KEY_LEADER_EETU_PEDIA</Civilopedia>
 			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_EETU</CivilopediaTag>
-			<ArtDefineTag>ART_DEF_LEADER_BARBARIAN</ArtDefineTag>
+			<ArtDefineTag>MonniScene.xml</ArtDefineTag>
 			<VictoryCompetitiveness>8</VictoryCompetitiveness>
 			<WonderCompetitiveness>7</WonderCompetitiveness>
 			<MinorCivCompetitiveness>3</MinorCivCompetitiveness>
@@ -221,7 +221,7 @@
 	<Leader_Traits>
 		<Row>
 			<LeaderType>LEADER_EETU</LeaderType>
-			<TraitType>TRAIT_AHKERAT_MONNILAISET</TraitType>
+			<TraitType>TRAIT_SCIENCE</TraitType>
 		</Row>
 	</Leader_Traits>
 

@@ -169,13 +169,13 @@
 		<Row Tag="TXT_KEY_LEADER__EETU">
 			<Text>EETU</Text>
 		</Row>
-
-		<Row Tag="TXT_KEY_TRAIT_AHKERAT_MONNILAISET_SHORT">
-			<Text>Ahkerat Monnilaiset</Text>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_SCIENCE_SHORT">
+			<Text>SCIENCE</Text>
 		</Row>
 
-		<Row Tag="TXT_KEY_TRAIT_AHKERAT_MONNILAISET">
-			<Text>Alussa Ilmanen Workeri. -50% Xp Seuraavaan Promotioniin.</Text>
+		<Row Tag="TXT_KEY_TRAIT_SCIENCE">
+			<Text>Alussa Ilmanen Great Scientist. </Text>
 		</Row>
 		<!-- Spy names-->
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_0">
