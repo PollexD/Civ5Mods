@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_SCENARIO_TITLE">
+      <Text>Monnin Koulun Piiritys</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_DESC">
+      <Text>Taistele Monnin Koulun Kohtalosta!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_BRIEFING_TEXT">
+      <Text>Puolusta Monnin Koulua Viimeistä Ihmisten Asuttamaa Paikkaa Maapallolla Monnin Maailmanvallalla Tai Yritä Valloittaa Maailma Alieneilla!
+[NEWLINE][NEWLINE]Monni Voittaa Jos Aika Loppu Ja Alienit Voittaa Jos Ne Vallottaa Monnin Koulun.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_RANDOM_MAP">
+      <Text>Randomi Scenario Kartta</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_FIXED_MAP">
+      <Text>Monnin Koulun Piiritys Kartta</Text>
+    </Row>
+    
+
+    <!-- Common last man standing text - shouldn't need changing -->
+    <Row Tag="TXT_KEY_SCENARIO_TURNS_REMAINING">
+      <Text>There are {1_TurnsRemaining} turns remaining.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_TURNS_AND_OPPONENTS_REMAINING">
+      <Text>There are {1_TurnsRemaining} turns remaining,[NEWLINE]and {2_Opponents} other civilizations still in play.</Text>
+    </Row>
+
+    <!-- Text used for buttons - shouldn't need changing -->
+    <Row Tag="TXT_KEY_SCENARIO_BRIEFING">
+      <Text>Briefing</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIO_SELECT_MAP">
+      <Text>Select Map</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

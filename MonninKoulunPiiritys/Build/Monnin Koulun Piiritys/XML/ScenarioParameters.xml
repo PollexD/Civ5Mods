@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <!-- Disable the "One more turn ..." button on the victory screen -->
+  <Defines>
+    <Update>
+      <Where Name="ALLOW_EXTENDED_PLAY" />
+      <Set Value="0" />
+    </Update>
+  </Defines>
+</GameData>

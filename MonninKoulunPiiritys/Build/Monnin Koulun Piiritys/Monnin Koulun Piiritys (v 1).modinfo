@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="254cab8d-af29-4603-9e66-53587df46420" version="1">
+  <Properties>
+    <Name>Monnin Koulun Piiritys</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Monnin Koulun Piiritys</Teaser>
+    <Description>Monnin Koulun Piiritys</Description>
+    <Authors>PolleXD</Authors>
+    <HideSetupGame>1</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="c71bfafc-10cc-444e-a615-fe9f281083d2" minversion="0" maxversion="999" title="Monnin Sivilisaatio - Johtaja Eetu" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="C4F516E0B382A344C5042574063CE543" import="1">ART/Scenario_Background.dds</File>
+    <File md5="AF56B590A83BBDD6AC8DF8A35DED3656" import="1">LUA/ScenarioInitialisation.lua</File>
+    <File md5="8F62F0E7D95E2496B43CA869F42B708C" import="1">LUA/ScenarioParameters.lua</File>
+    <File md5="3C6B5EAF1C443665CF72E6B6EE22AA20" import="1">LUA/ScenarioUtilities.lua</File>
+    <File md5="BEE2CF1B02405F3C45FAC1BC7986B0C0" import="1">MAPS/MonninKoulunPiiritys.Civ5Map</File>
+    <File md5="EFBE3E3E14E6FED89F44E6438B79EDAC" import="0">SQL/ScenarioText.sql</File>
+    <File md5="E8BBE99A72ABD9F473CB908061B089BD" import="0">UI/ScenarioLoadScreen.lua</File>
+    <File md5="C44B3C7A5BA107D6247D2F8552844C6B" import="0">UI/ScenarioLoadScreen.xml</File>
+    <File md5="FB2B8DE93782AB4F6498459651E98189" import="0">UI/ScenarioVictoryProgress.lua</File>
+    <File md5="320F6C539CB3CD7936CBF09ADE2B7B9A" import="0">UI/ScenarioVictoryProgress.xml</File>
+    <File md5="8B9841409BDB02E4DA0E94E00DA99328" import="0">XML/ScenarioParameters.xml</File>
+    <File md5="2A17A6EBA26DBF800FB224105DCC90C1" import="0">XML/ScenarioText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ScenarioText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ScenarioText.sql</UpdateDatabase>
+      <UpdateDatabase>XML/ScenarioParameters.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="UI/ScenarioLoadScreen.xml">
+      <Name>TXT_KEY_SCENARIO_TITLE</Name>
+      <Description>TXT_KEY_SCENARIO_DESC</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/ScenarioInitialisation.lua">
+      <Name>Scenario Initialisation</Name>
+      <Description>Scenario Initialisation</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/ScenarioVictoryProgress.xml">
+      <Name>Victory Progress</Name>
+      <Description>Victory Progress Display</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
