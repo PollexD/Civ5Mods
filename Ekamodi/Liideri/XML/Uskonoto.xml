@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Religions>
+		<Row>
+			<Type>RELIGION_EETULAISUUS</Type>
+			<Description>TXT_KEY_RELIGION_EETULAISUUS</Description>
+			<Civilopedia>TXT_KEY_RELIGION_EETULAISUUS_PEDIA</Civilopedia>
+			<EarliestFoundDate>-1</EarliestFoundDate>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<IconString>[ICON_US_EETULAISUUS]</IconString>
+		</Row>
+	</Religions>
+</GameData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by ModBuddy on 10/8/2010 8:48:02 PM -->
+<!-- Copyright 2015 PolleXD -->
 <GameData>
 	<!--Icons-->
 
@@ -8,13 +8,21 @@
 			<IconFontTexture>ICON_FONT_TEXTURE_ANTIMATTER</IconFontTexture>
 			<IconFontTextureFile>Antimatter-fonticons</IconFontTextureFile>
 		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_EETULAISUUS</IconFontTexture>
+			<IconFontTextureFile>Eetulaisuus-fonticons</IconFontTextureFile>
+		</Row>
 	</IconFontTextures>
 	<IconFontMapping>
 		<Row>
 			<IconName>ICON_RES_ANTIMATTER</IconName>
 			<IconFontTexture>ICON_FONT_TEXTURE_ANTIMATTER</IconFontTexture>
-			<IconMapping>1</IconMapping>
+			<IconMapping>123</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_US_EETULAISUUS</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_EETULAISUUS</IconFontTexture>
+			<IconMapping>122</IconMapping>
 		</Row>
 	</IconFontMapping>
-  
 </GameData>
