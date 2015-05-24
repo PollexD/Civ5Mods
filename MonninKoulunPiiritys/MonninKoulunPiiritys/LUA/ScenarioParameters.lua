@@ -14,7 +14,7 @@ ScenarioFixedMap = "MAPS/MonninKoulunPiiritys.Civ5Map"           -- Set to nil t
 -- If using a WorldBuilder (.Civ5Map) map,
 -- this table MUST match the placed playable civs
 ScenarioCivilizations = {
-  [0] = "CIVILIZATION_OTTOMAN",
+  [0] = "CIVILIZATION_ALIEN",
   [1] = "CIVILIZATION_MONNI",
 }
 -- ScenarioDefaultCivilization = "CIVILIZATION_ARABIA"  -- Set to nil to set initial value to "random"
