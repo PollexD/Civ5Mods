@@ -4,26 +4,26 @@
 <GameData>
 	<Language_en_US>
 		<Row Tag="TXT_KEY_LEADER_EETU">
-			<Text>Eetu The SikaGreit</Text>
+			<Text>[COLOR_YELLOW]Eetu The SikaGreit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_MONNI_DESC">
-			<Text>Monnin Maailmanvalta</Text>
+			<Text>[COLOR_YELLOW]Monnin Maailmanvalta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_MONNI_SHORT_DESC">
-			<Text>Monnin Maailmanvalta</Text>
+			<Text>[COLOR_CYAN]Monnin Maailmanvalta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_MONNI_ADJECTIVE">
-			<Text>Monnilainen</Text>
+			<Text>[COLOR_YELLOW]Monnilainen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_MONNI_PEDIA">
-			<Text>Monnin Maailmanvalta</Text>
+			<Text>[COLOR_CYAN]Monnin Maailmanvalta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI">
-			<Text>Monnin Maailmanvalta Hallitsi Maailmaa Vuonna 2015</Text>
+			<Text>[COLOR_YELLOW]Monnin Maailmanvalta Hallitsi Maailmaa Vuonna 2015</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_CIV5_DAWN_MONNI_TEXT">
-			<Text>Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.   
+			<Text>[COLOR_YELLOW]Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.   
 				  Vuonna 2002 Monnin MaailmanValta Itsenäistyi. Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman. 
 				  13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
 		</Row>
@@ -42,183 +42,183 @@
 
 		<!-- Jesus INFANTRY texts -->
 		<Row Tag="TXT_KEY_UNIT_JESUS_INFANTRY">
-			<Text>Jesus Infantry</Text>
+			<Text>[COLOR_YELLOW]Jesus Infantry</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_UNIT_HELP_JESUS_INFANTRY">
-			<Text>Jesus Infantry On Jumalallinen Sotilas Joka On Vahvempi, Nopeampi, Kestävämpi Kuin Tavallinen Infantry.</Text>
+			<Text>[COLOR_YELLOW]Jesus Infantry On Jumalallinen Sotilas Joka On Vahvempi, Nopeampi, Kestävämpi Kuin Tavallinen Infantry.</Text>
 		</Row>
 		<!--ANTIAMTTER KITCHEN Texts-->
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATTER_KITCHEN">
-			<Text>Antimatter Kitchen</Text>
+			<Text>[COLOR_YELLOW]Antimatter Kitchen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATTER_KITCHEN_STRATEGY">
-			<Text>Antimatter Kitchen Tuottaa 2 [ICON_RES_ANTIMATTER]</Text>
+			<Text>[COLOR_YELLOW]Antimatter Kitchen Tuottaa 2 [ICON_RES_ANTIMATTER]</Text>
 			
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANTIMATTER_KITCHEN_TEXT">
-			<Text>Antimatter Kitchen Tuottaa 2 [ICON_RES_ANTIMATTER]</Text>
+			<Text>[COLOR_YELLOW]Antimatter Kitchen Tuottaa 2 [ICON_RES_ANTIMATTER]</Text>
 		</Row>
 
 	
 		<!-- AntimateriaFuusioReaktori Texts-->
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_STRATEGY">
-			<Text>AntimateriaFuusioReaktori Tuottaa Energiaa</Text>
+			<Text>[COLOR_YELLOW]AntimateriaFuusioReaktori Tuottaa Energiaa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI">
-			<Text>AntimateriaFuusioReaktori</Text>
+			<Text>[COLOR_YELLOW]AntimateriaFuusioReaktori</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_TEXT">
-			<Text>AntimateriaFuusioReaktori</Text>
+			<Text>[COLOR_YELLOW]AntimateriaFuusioReaktori</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATERIA_FUUSIO_REAKTORI_HELP">
-			<Text>AntimateriaFuusioReaktori Tarvitsee Yhden [ICON_RES_ANTIMATTER] Ja Tuottaa 15% [ICON_PRODUCTION] , 15% [ICON_RESEARCH] Ja +15 [ICON_PRODUCTION]</Text>
+			<Text>[COLOR_YELLOW]AntimateriaFuusioReaktori Tarvitsee Yhden [ICON_RES_ANTIMATTER] Ja Tuottaa 15% [ICON_PRODUCTION] , 15% [ICON_RESEARCH] Ja [ICON_PLUS]15 [ICON_PRODUCTION]</Text>
 		</Row>
 		<!--Teknologia-->
 		<Row Tag="TXT_KEY_TECH_ANTIMATTER_DESC">
-			<Text>Antimatter Matters</Text>
+			<Text>[COLOR_YELLOW]Antimatter Matters</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANTIMATTER_TITLE">
-			<Text>Antimatter</Text>
+			<Text>[COLOR_YELLOW]Antimatter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GRID_ANTIMATTER_HELP">
-			<Text>Anti+Matter=Antimatter</Text>
+			<Text>[COLOR_YELLOW]Anti+Matter=Antimatter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANTIMATTER_QUOTE">
-			<Text>AntimateriaFuusioReaktori</Text>
+			<Text>[COLOR_YELLOW]AntimateriaFuusioReaktori</Text>
 		</Row>
 		
 		<!--Uskonto-->
 
 		<Row Tag="TXT_KEY_RELIGION_EETULAISUUS">
-			<Text>Eetulaisuus</Text>
+			<Text>[COLOR_YELLOW]Eetulaisuus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RELIGION_EETULAISUUS_PEDIA">
-			<Text>Eetulaisuus Perustettiin Vuonna 2005 Monnissa.</Text>
+			<Text>[COLOR_YELLOW]Eetulaisuus Perustettiin Vuonna 2005 Monnissa.</Text>
 		</Row>
 		
 		<!--Resurssi-->
 
 		<Row Tag="TXT_KEY_RESOURCE_ANTIMATTER">
-			<Text>Antimatter</Text>
+			<Text>[COLOR_YELLOW]Antimatter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_ANTIMATTER_TEXT">
-			<Text>Antimatter</Text>
+			<Text>[COLOR_YELLOW]Antimatter</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ANTIMATTER_HELP">
-			<Text>Antimatter On Erikoinen Resurssi Jota Ei Löydy Mistään. Antimateriaa Tuotetaan Antimatter Kitchenillä.</Text>
+			<Text>[COLOR_YELLOW]Antimatter On Erikoinen Resurssi Jota Ei Löydy Mistään. Antimateriaa Tuotetaan Antimatter Kitchenillä.</Text>
 		</Row>
 		
 		<!-- CIVILOPEDIA -->
 
 		<Row Tag="TXT_KEY_CIV5_MONNI_FACTOID_HEADING">
-			<Text>Factoids</Text>
+			<Text>[COLOR_CYAN]Factoids</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_FACTOID_TEXT">
-			<Text>Monni Oli Maailmanvalloista Mahtavin Ja Mutta Lyhytikäisin.</Text>
+			<Text>[COLOR_YELLOW]Monni Oli Maailmanvalloista Mahtavin Ja Mutta Lyhytikäisin.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_1">
-			<Text>Overview</Text>
+			<Text>[COLOR_CYAN]Overview</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_2">
-			<Text>Climate and Terrain</Text>
+			<Text>[COLOR_CYAN]Climate and Terrain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_3">
-			<Text>Origins</Text>
+			<Text>[COLOR_CYAN]Origins</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_4">
-			<Text>Swedish Era</Text>
+			<Text>[COLOR_CYAN]Swedish Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_5">
-			<Text>Autonomous Duchy of MONNI</Text>
+			<Text>[COLOR_CYAN]Autonomous Duchy of MONNI</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_6">
-			<Text>Struggles of a Young Republic</Text>
+			<Text>[COLOR_CYAN]Struggles of a Young Republic</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_7">
-			<Text>The Winter War</Text>
+			<Text>[COLOR_CYAN]The Winter War</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_8">
-			<Text>The War Continues</Text>
+			<Text>[COLOR_CYAN]The War Continues</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_9">
-			<Text>Postwar Period and Recovery</Text>
+			<Text>[COLOR_CYAN]Postwar Period and Recovery</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_10">
-			<Text>EETU EETU's Era</Text>
+			<Text>[COLOR_CYAN]EETU EETU's Era</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_HEADING_11">
-			<Text>Recent History</Text>
+			<Text>[COLOR_CYAN]Recent History</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_MONNI_TEXT_1">
-			<Text>
-				Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.
-			Vuonna 2002 Monnin MaailmanValta Itsenäistyi.Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman.
+			<Text>[COLOR_YELLOW]Kaikki Hurraa Maineikkaalle Monnin Maailmanvallan Johtajalle Eetulle Joka "Vapautti" Monnin Suomen Vallan Ikeestä.
+			Vuonna 2002 Monnin MaailmanValta Itsenäistyi. Jo Vuonna 2005 Eetu The SikaGreit Oli Valloittanut Koko Maailman.
 			13 Vuotta Eetu The SikaGreit Hallitsi Maailmaa Kunnes Vuonna 2015 Alienit Tulivat Ja Valloittivat Maapallon.</Text>
+				
 			
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_HEADING_1">
-			<Text>Overview</Text>
+			<Text>[COLOR_CYAN]Overview</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_TEXT_1">
-			<Text>Eetu The SikaGreit Oli Monnin Maailmanvallan Maineikas Ja SikaGreit Liideri.</Text>
+			<Text>[COLOR_YELLOW]Eetu The SikaGreit Oli Monnin Maailmanvallan Maineikas Ja SikaGreit Liideri.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_LIVED">
-			<Text>2002-2015 AD</Text>
+			<Text>[COLOR_CYAN]2002-2015 AD</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_TITLES_1">
-			<Text>Monnin Liideri</Text>
+			<Text>[COLOR_YELLOW]Monnin Liideri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_NAME">
-			<Text>EETU ANTERO LOIMUNEVA</Text>
+			<Text>[COLOR_YELLOW]EETU ANTERO LOIMUNEVA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EETU_SUBTITLE">
-			<Text>Monnin Maailmanvallan Liideri</Text>
+			<Text>[COLOR_YELLOW]Monnin Maailmanvallan Liideri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER__EETU">
-			<Text>EETU</Text>
+			<Text>[COLOR_YELLOW]EETU</Text>
 		</Row>
 		<!-- Trait -->
 		<Row Tag="TXT_KEY_TRAIT_SCIENCE_SHORT">
-			<Text>SCIENCE</Text>
+			<Text>[COLOR_YELLOW]Productive [COLOR_CYAN]Sciences</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_TRAIT_SCIENCE">
-			<Text>Alussa Ilmanen Great Scientist. </Text>
+			<Text>[COLOR_CYAN]Alussa Ilmainen Great Scientist[ICON_GREAT_SCIENTIST].[COLOR_YELLOW] Kaupungit Tuottaa [ICON_PLUS]5[ICON_PRODUCTION].</Text>
 		</Row>
 		<!-- Spy names-->
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_0">
-			<Text>James Puntti</Text>
+			<Text>[COLOR_CYAN]James Puntti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_1">
-			<Text>Inkkari Joonas</Text>
+			<Text>[COLOR_CYAN]Inkkari Joonas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_2">
-			<Text>Pertti "Pera" Kartio</Text>
+			<Text>[COLOR_CYAN]Pertti "Pera" Kartio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_3">
-			<Text>Virtasen Juhani</Text>
+			<Text>[COLOR_CYAN]Virtasen Juhani</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_4">
-			<Text>Urpo Uusmaa</Text>
+			<Text>[COLOR_CYAN]Urpo Uusmaa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_5">
-			<Text>Herra Hermanni</Text>
+			<Text>[COLOR_CYAN]Herra Hermanni</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_6">
-			<Text>Tarzan</Text>
+			<Text>[COLOR_CYAN]Tarzan</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_7">
-			<Text>SikaPossu</Text>
+			<Text>[COLOR_CYAN]SikaPossu</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_8">
-			<Text>MarttaKerho</Text>
+			<Text>[COLOR_CYAN]MarttaKerho</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_SPY_NAME_MONNI_9">
-			<Text>You</Text>
+			<Text>[COLOR_CYAN]You</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_EETU_AGREE_SHORT_1">

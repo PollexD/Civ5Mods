@@ -9,4 +9,11 @@
 			<FreeUnit>UNITCLASS_SCIENTIST</FreeUnit>
 		</Row>
 	</Traits>
- </GameData>
+	<Trait_YieldChanges>
+		<Row>
+			<TraitType>TRAIT_SCIENCE</TraitType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Trait_YieldChanges>
+</GameData>
