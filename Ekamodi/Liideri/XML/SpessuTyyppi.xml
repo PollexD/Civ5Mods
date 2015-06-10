@@ -13,7 +13,7 @@
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_JESUS_INFANTRY</Description>
-			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_INFANTRY_TEXT</Civilopedia>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_JESUS_INFANTRY_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_INFANTRY_STRATEGY</Strategy>
 			<Help>TXT_KEY_UNIT_HELP_JESUS_INFANTRY</Help>
 			<MilitarySupport>true</MilitarySupport>

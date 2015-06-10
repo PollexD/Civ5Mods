@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_CONQUEST</Type>
+			<Description>TXT_KEY_TRAIT_CONQUEST</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CONQUEST_SHORT</ShortDescription>
+			<FightWellDamaged>1</FightWellDamaged>
+		</Row>
+	</Traits>
+ </GameData>

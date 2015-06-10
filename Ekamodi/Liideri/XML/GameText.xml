@@ -48,6 +48,9 @@
 		<Row Tag="TXT_KEY_UNIT_HELP_JESUS_INFANTRY">
 			<Text>[COLOR_YELLOW]Jesus Infantry On Jumalallinen Sotilas Joka On Vahvempi, Nopeampi, Kestävämpi Kuin Tavallinen Infantry.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_JESUS_INFANTRY_TEXT">
+			<Text>Jesus Infantry</Text>
+		</Row>
 		<!--ANTIAMTTER KITCHEN Texts-->
 		<Row Tag="TXT_KEY_BUILDING_ANTIMATTER_KITCHEN">
 			<Text>[COLOR_YELLOW]Antimatter Kitchen</Text>

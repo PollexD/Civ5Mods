@@ -17,7 +17,7 @@ ScenarioCivilizations = {
   [0] = "CIVILIZATION_ALIEN",
   [1] = "CIVILIZATION_MONNI",
 }
--- ScenarioDefaultCivilization = "CIVILIZATION_ARABIA"  -- Set to nil to set initial value to "random"
+-- ScenarioDefaultCivilization = "CIVILIZATION_MONNI"  -- Set to nil to set initial value to "random"
 ScenarioDefaultCivilization = nil
 
 -- Other AI (non-playable) civs - only needed for random maps

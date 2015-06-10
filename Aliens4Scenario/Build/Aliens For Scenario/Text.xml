@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+<Language_en_US>
+	
+	<!-- Kaupungin Nimet -->
+	<Row Tag="TXT_KEY_CITY_NAME_1">
+		<Text>Alienville</Text>
+	</Row>
+	
+	<!-- Alien Civ-->
+	<Row Tag="TXT_KEY_CIV_ALIEN_ADJECTIVE">
+		<Text>Extraterrestial</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_ALIEN_DESC">
+		<Text>Alien Valtakunta</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_ALIEN_SHORT_DESC">
+		<Text>Alien</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_ALIEN_HEADING_1">
+		<Text>History</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_ALIEN_TEXT_1">
+		<Text>Joku SikaSiisti DawnOfMan Teksti!</Text>
+			
+	</Row>
+	
+	<!-- Alien Liideri-->
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALIEN_HEADING_1">
+		<Text>History</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALIEN_TEXT_1">
+		<Text>Joku SikaSiisti Civilopedia Teksti!</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALIEN_LIVED">
+		<Text>2015 BC - ...</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALIEN_NAME">
+		<Text>Borg</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALIEN_SUBTITLE">
+		<Text>Suuri SotaLiideri Borg</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_ALIEN">
+		<Text>Borg</Text>
+	</Row>
+	
+	<!-- Trait -->
+	<Row Tag="TXT_KEY_TRAIT_CONQUEST">
+		<Text>Taistelee Yhtä Hyvin Vahingoittuneenakin.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_TRAIT_CONQUEST_SHORT">
+		<Text>Jaa</Text>
+	</Row>
+	
+	<!-- Vakoojien Nimet -->
+	<Row Tag="TXT_KEY_SPY_NAME_ALIEN_0">
+		<Text>Agentti A</Text>
+	</Row>
+	
+	<!-- Rakennus -->
+	<Row Tag="TXT_KEY_BUILDING_FUUDIJUTTU">
+		<Text>SuperMegaFuudiJuttuEbinScenarioFuudi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_FUUDIJUTTU_STRATEGY">
+		<Text>53 Fuudi Alieneille.</Text>
+	</Row>
+	
+</Language_en_US>
+</GameData>

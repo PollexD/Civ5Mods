@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2015 4:22:43 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_FUUDIJUTTU</Type>
+			<DefaultBuilding>BUILDING_FUUDIJUTTU</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FUUDIJUTTU</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

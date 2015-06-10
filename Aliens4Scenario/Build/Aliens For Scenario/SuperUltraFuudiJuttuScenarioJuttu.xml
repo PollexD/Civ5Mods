@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 PolleXD -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_FUUDIJUTTU</Type>
+			<BuildingClass>BUILDINGCLASS_FUUDIJUTTU</BuildingClass>
+			<Cost>0</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_FUUDIJUTTU_STRATEGY</Help>
+			<Description>TXT_KEY_BUILDING_FUUDIJUTTU</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FUUDIJUTTU_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_FUUDIJUTTU_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_GRANARY</ArtDefineTag>
+			<MaxStartEra>ERA_ANCIENT</MaxStartEra>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FUUDIJUTTU</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>53</Yield>
+		</Row>
+	</Building_YieldChanges>
+</GameData>

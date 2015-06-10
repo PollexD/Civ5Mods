@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e1f9e07f-bac7-4924-9fde-936488c3d991" version="1">
+  <Properties>
+    <Name>Aliens For Scenario</Name>
+    <Stability>Experimental</Stability>
+    <Teaser>Simple Alien Civ And Leader For Scenario ''Monnin Koulun Piiritys''</Teaser>
+    <Description>Simple Alien Civ And Leader For Scenario ''Monnin Koulun Piiritys''</Description>
+    <Authors>PolleXD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D3B59E4F93F9D3ABD2617CE3D0E2D103" import="1">AlienDOM.dds</File>
+    <File md5="6497757DB709F80F2B31456DEA4F2407" import="0">AlienLeader.xml</File>
+    <File md5="964DF35B3C3F711A75956ED97DEB46B6" import="0">BuildingClasses.xml</File>
+    <File md5="345521E195C4CB678616780B3AE40DB7" import="0">CIV5IconTextureAtlases.xml</File>
+    <File md5="E2F29920C1C269FD0A4EF2AB45B35E4D" import="0">Civ_Aliens.xml</File>
+    <File md5="A063C4E4A50DEDC0280D305ECAC40A2A" import="1">IconAlien128.dds</File>
+    <File md5="CFDA443FCB5484825E548EF24D88D192" import="1">IconAlien256.dds</File>
+    <File md5="B31D832BA90F007FCE7569900D396368" import="1">IconAlien32.dds</File>
+    <File md5="F0977F20AB9F84F7993721E74CB3639F" import="1">IconAlien45.dds</File>
+    <File md5="6703352A295B83DA0AE3177352522609" import="1">IconAlien64.dds</File>
+    <File md5="1EE3C3FBB1962A58751EF09C981ED7D0" import="1">IconAlien80.dds</File>
+    <File md5="1AC661FA6B62C1DCA00514DAAD54FCB2" import="0">SuperUltraFuudiJuttuScenarioJuttu.xml</File>
+    <File md5="00023FC195E0B60C95448C04CB5D9ACA" import="0">Text.xml</File>
+    <File md5="5DB2AD89908D4142A66644A5F82BFE55" import="0">Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>AlienLeader.xml</UpdateDatabase>
+      <UpdateDatabase>Civ_Aliens.xml</UpdateDatabase>
+      <UpdateDatabase>CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Text.xml</UpdateDatabase>
+      <UpdateDatabase>Trait.xml</UpdateDatabase>
+      <UpdateDatabase>SuperUltraFuudiJuttuScenarioJuttu.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

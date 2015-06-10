@@ -19,38 +19,29 @@
   </Properties>
   <Dependencies>
     <Mod id="c71bfafc-10cc-444e-a615-fe9f281083d2" minversion="0" maxversion="999" title="Monnin Sivilisaatio - Johtaja Eetu" />
+    <Mod id="e1f9e07f-bac7-4924-9fde-936488c3d991" minversion="0" maxversion="999" title="Alien4ScenarioMod" />
   </Dependencies>
   <References />
   <Blocks />
   <Files>
-    <File md5="8AC8ACD01EE19D184D745961A2D7B14E" import="1">ART/AlienDOM.dds</File>
-    <File md5="A8B285CF41983B393582789983AA4D1F" import="1">ART/Borg_Scene.dds</File>
     <File md5="C4F516E0B382A344C5042574063CE543" import="1">ART/Scenario_Background.dds</File>
     <File md5="AF56B590A83BBDD6AC8DF8A35DED3656" import="1">LUA/ScenarioInitialisation.lua</File>
-    <File md5="B06B966E7E78DB51AEF9AB053504B81A" import="1">LUA/ScenarioParameters.lua</File>
+    <File md5="DFF1C81FB685C2959E1DC6BBE045F66B" import="1">LUA/ScenarioParameters.lua</File>
     <File md5="3C6B5EAF1C443665CF72E6B6EE22AA20" import="1">LUA/ScenarioUtilities.lua</File>
-    <File md5="19983A4C9DAE20FF35E7792B6839932D" import="1">MAPS/MonninKoulunPiiritys.Civ5Map</File>
+    <File md5="9FB2A3555ED038BC206202E733AAE5F5" import="1">MAPS/MonninKoulunPiiritys.Civ5Map</File>
     <File md5="EFBE3E3E14E6FED89F44E6438B79EDAC" import="0">SQL/ScenarioText.sql</File>
     <File md5="E8BBE99A72ABD9F473CB908061B089BD" import="0">UI/ScenarioLoadScreen.lua</File>
     <File md5="C44B3C7A5BA107D6247D2F8552844C6B" import="0">UI/ScenarioLoadScreen.xml</File>
     <File md5="FB2B8DE93782AB4F6498459651E98189" import="0">UI/ScenarioVictoryProgress.lua</File>
     <File md5="320F6C539CB3CD7936CBF09ADE2B7B9A" import="0">UI/ScenarioVictoryProgress.xml</File>
-    <File md5="4955D7AF97F1B496EBE6B2954A8D6943" import="0">XML/AlienCiv.xml</File>
-    <File md5="BD9491CF181FE065FB38F546364C4F84" import="0">XML/AlienText.xml</File>
-    <File md5="2D1610398FCF518DA9AA56728F22ABCA" import="0">XML/BorgLeader.xml</File>
     <File md5="8B9841409BDB02E4DA0E94E00DA99328" import="0">XML/ScenarioParameters.xml</File>
     <File md5="14DB2D28C7609C5F0FC017CC6EAE8C01" import="0">XML/ScenarioText.xml</File>
-    <File md5="5DB2AD89908D4142A66644A5F82BFE55" import="0">XML/Trait.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
       <UpdateDatabase>XML/ScenarioText.xml</UpdateDatabase>
       <UpdateDatabase>SQL/ScenarioText.sql</UpdateDatabase>
       <UpdateDatabase>XML/ScenarioParameters.xml</UpdateDatabase>
-      <UpdateDatabase>XML/AlienCiv.xml</UpdateDatabase>
-      <UpdateDatabase>XML/AlienText.xml</UpdateDatabase>
-      <UpdateDatabase>XML/BorgLeader.xml</UpdateDatabase>
-      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

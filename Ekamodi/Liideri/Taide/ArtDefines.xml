@@ -19,7 +19,7 @@
 		<Row>
 			<Type>ART_DEF_UNIT_MEMBER_JESUS_INFANTRY</Type>
 			<Scale>0.20</Scale>
-			<Model>WW2_Infantry.fxsxml</Model>
+			<Model>infantry.fxsxml</Model>
 			<MaterialTypeTag>CLOTH</MaterialTypeTag>
 			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
 		</Row>
